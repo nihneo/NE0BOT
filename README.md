@@ -1,5 +1,5 @@
 # Ninbot
-A repository for the discord bot "Ninbot" 
+A repository for my discord bot "Ninbot" 
 -
 -
 -
