@@ -48,22 +48,23 @@ The bot will only respond to you if you put 'n.' before the command you wish for
 -
 -
 ╔═══*.·:·.☽✧    ✦    ✧☾.·:·.*═══╗
-       Examples of commands
+-
+Examples of commands
 -
 -
  *n.help
  *n.mute @user {duration}
  *n.kick @user
   *n.ban @user
-  -
-  -
+-
+ -
 ╚═══*.·:·.☽✧    ✦    ✧☾.·:·.*═══╝
 -
 
 
 Using these commands correctly SHOULD warrant a response from Ninbot within 5 seconds.
 
-0
+
   Commands : 
 Full list of commands for Ninbot are listed HERE ^ (Link will be updated into file shortly.)
 0
@@ -85,11 +86,11 @@ Full list of commands for Ninbot are listed HERE ^ (Link will be updated into fi
 
  * Customize the bots permission settings in Server Settings » Roles »
    Ninbot » Role Permissions
-
+-
 ╔═══*.·:·.☽✧    ✦    ✧☾.·:·.*═══╗
 -
- We are currently updating
- this README file. 
- -
- 0
+We are currently updating
+this README file. 
+-
 ╚═══*.·:·.☽✧    ✦    ✧☾.·:·.*═══╝
+-
