@@ -46,18 +46,16 @@ This bot requires the following:
 This bot uses the bot cammand "n." 
 The bot will only respond to you if you put 'n.' before the command you wish for Ninbot to execute.
 -
--
+
 ╔═══*.·:·.☽✧    ✦    ✧☾.·:·.*═══╗
 -
-Examples of commands
--
--
- *n.help
- *n.mute @user {duration}
- *n.kick @user
-  *n.ban @user
--
- -
+    * n.ping
+    * n.help
+    * n.angry
+    * n.server
+    * n.myinfo
+    * n.updown
+    
 ╚═══*.·:·.☽✧    ✦    ✧☾.·:·.*═══╝
 -
 
@@ -67,7 +65,7 @@ Using these commands correctly SHOULD warrant a response from Ninbot within 5 se
 
   Commands : 
 Full list of commands for Ninbot are listed HERE ^ (Link will be updated into file shortly.)
-0
+-
             CONFIGURATION
 ───✱*.｡:｡✱*.:｡✧*.｡✰*.:｡✧*.｡:｡*.｡✱ ───
  
