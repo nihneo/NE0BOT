@@ -1,15 +1,17 @@
 # Ninbot
 A repository for the discord bot "Ninbot" 
-
-
-
-
+-
+-
+-
+-
 ─── ･ ｡ﾟ☆: *.☽ .* :☆ﾟ. ───
+-
 CONTENTS OF THIS FILE 
+-
 ─── ･ ｡ﾟ☆: *.☽ .* :☆ﾟ. ───
- *
- *
- *
+ -
+ -
+ -
 ╔═══*.·:·.☽✧    ✦    ✧☾.·:·.*═══╗
 
     * Introduction to Ninbot
