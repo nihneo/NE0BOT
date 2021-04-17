@@ -35,7 +35,7 @@ The Ninbot is used to help moderate and liven up your discord server. This bot c
   https://github.com/Ninilla/Ninbot/discussions/categories/bug-reports
   https://github.com/Ninilla/Ninbot/discussions/categories/ideas
   
-            HOW TO USE NINBOT
+          HOW TO USE NINBOT
 ───✱*.｡:｡✱*.:｡✧*.｡✰*.:｡✧*.｡:｡*.｡✱ ───
 
 This bot requires the following:
@@ -45,21 +45,29 @@ This bot requires the following:
 
 This bot uses the bot cammand "n." 
 The bot will only respond to you if you put 'n.' before the command you wish for Ninbot to execute.
+-
+-
+╔═══*.·:·.☽✧    ✦    ✧☾.·:·.*═══╗
+       Examples of commands
+-
+-
+ *n.help
+ *n.mute @user {duration}
+ *n.kick @user
+  *n.ban @user
+  -
+  -
+╚═══*.·:·.☽✧    ✦    ✧☾.·:·.*═══╝
+-
 
-Examples of commands this bot responds to: 
-─── ･ ｡ﾟ☆: *.☽ .* :☆ﾟ. ────── ･ ｡ﾟ☆: *.☽ .* :☆ﾟ. ───
-
-n.help
-n.mute @user {duration}
-n.kick @user
-n.ban @user
 
 Using these commands correctly SHOULD warrant a response from Ninbot within 5 seconds.
 
+0
   Commands : 
 Full list of commands for Ninbot are listed HERE ^ (Link will be updated into file shortly.)
-
-                 CONFIGURATION
+0
+            CONFIGURATION
 ───✱*.｡:｡✱*.:｡✧*.｡✰*.:｡✧*.｡:｡*.｡✱ ───
  
  * Configure the user permissions in Server Settings » Members » Permissions:
@@ -78,5 +86,10 @@ Full list of commands for Ninbot are listed HERE ^ (Link will be updated into fi
  * Customize the bots permission settings in Server Settings » Roles »
    Ninbot » Role Permissions
 
-
-We are currently updating this README file. 
+╔═══*.·:·.☽✧    ✦    ✧☾.·:·.*═══╗
+-
+ We are currently updating
+ this README file. 
+ -
+ 0
+╚═══*.·:·.☽✧    ✦    ✧☾.·:·.*═══╝
